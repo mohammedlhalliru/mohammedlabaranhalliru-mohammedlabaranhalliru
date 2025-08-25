@@ -1,107 +1,87 @@
-# mohammedlabaranhalliru-mohammedlabaranhalliru
-
-<!-- Centered Name + Role -->
-<h1 align="center">Your Name</h1>
-<p align="center"><b>Data Analyst</b></p>
-
-<!-- Contact row -->
 <p align="center">
-  <a href="mohammedlabaranhalliru@gmail.com">M</a> • +1-000-000-0000
-</p>
 
-<!-- Social / portfolio badges -->
+</p>
+<h1 align="center"> Mohammed Labaran Halliru </h1>
+<h3 align="center"> Data Analyst </h3>
+<p align="center">+60-182019227 | mohammedlabaranhalliru@gmail.com </p>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINK/](https://www.linkedin.com/in/mohammed-labaran-halliru/)">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-  </a>
-  <a href="https://public.tableau.com/app/profile/YOUR_TABLEAU">
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-  </a>
-  <a href="https://medium.com/@YOUR_MEDIUM">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/mohammed-labaran-halliru/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="arpitadeblinkedin" height="40" width="40" /></a>
+<a href="[https://kaggle.com/arpitadeb1999](https://www.kaggle.com/mohammedhalliru)" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="arpita deb" height="30" width="50" /></a>
+<a href="https://public.tableau.com/app/profile/mohammed.halliru/vizzes" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-1024x704.png" alt="tableau" height="50" width="60" /></a>
+
+</p>
 </p>
 
-<!-- Short intro paragraph -->
 <p align="center">
-As a curious Data Analyst, I work with Spreadsheets, SQL, R, Python, and Power BI—combining strong communication, problem-solving, and critical-thinking skills. 
-I love turning data into decisions and improving a little every day. Below are highlights of my tools, competencies, and projects.
+  <em>
+ As a curious Data Analyst, I possess expertise in Spreadsheets, SQL, R, Python, and Power BI, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve while also enjoy the process. This Portfolio showcases the Data Analysis and Data Science projects I have completed for my internships and self-learning purposes.
+<br><br><br>
+
 </p>
+<img align="right" width=450px height=300px alt="side_sticker" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif"/>
 
----
+<img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***About me in 30 Seconds***
 
-### About me in 30 Seconds
-- Learn about me with this short **[video resume](https://youtu.be/YOUR_VIDEO_ID)**.
-- Recently completed Data Analyst internships at **INNOVEST AFRIKA**.
-- Toolkit: Excel, SQL, Python, R, Power BI, Tableau, Alteryx.
-- I write on **[LinkedIn](https://www.linkedin.com/in/YOUR_LINK/)** and **[Medium](https://medium.com/@YOUR_MEDIUM)**.
-- BSc in **Electrical Engineering**.
-- When I’m not analyzing data, I read, write, paint, or learn new skills.
+* Learn about me with this short [video resume]().
 
-<!-- Big clickable thumbnail to your video -->
-<a href="https://youtu.be/YOUR_VIDEO_ID">
-  <img src="assets/video_thumb.jpg" alt="Video resume" width="100%"/>
-</a>
+* I've recently completed Data Analyst Internships at INNOVEST AFRIKA Texas USA.
+  
+* My Data Analysis toolkit includes Excel, SQL, Python, Alteryx, Tableau, Power BI and R Programming Language.
+  
+* I have a [Bachelor's Degree](https://drive.google.com/file/d/1pVwHnOhrnSfkn_r5hXM8lVKNhLj3KxNY/view?usp=drive_link) in Business & Management.
+  
+* * I have a [Master's Degree](https://drive.google.com/file/d/1WkLv_BWG0xSA8OKGD8dcVdWza8y64Qm5/view?usp=drive_link) in Business Analytics.
 
----
+* When I'm not analyzing data, I read, Travel, Do photograph or learn new skills.
+  
+<br><br><br>
 
-### My working tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45" title="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" title="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45" title="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" title="Canva"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+<img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***My working tools***
+<p align="left">
+<code><img width = "100" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+<code><img  width="50" src="https://th.bing.com/th/id/OIP.ZoqKs96cGI7oDM6AxUR5AgHaHa?pid=ImgDet&rs=1"></code>
+<code><img width="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="75" src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png"></code>
+<code><img width="75" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+<code><img width="130" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"> </code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> </code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
 </p>
+<br><br><br>
 
----
+<img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***Core Competencies***
+<p align="left"/>
 
-### Core Competencies
-- **Methodologies:** Data wrangling/cleaning, visualization, EDA, statistics, regression, A/B testing, segmentation, RFM, time series, ML basics, database design & normalization.
-- **Technical:** Excel & PivotTables, SQL (PostgreSQL, SQL Server), R (tidyverse), Python (pandas, numpy, matplotlib, scikit-learn), Tableau, Power BI, Alteryx.
-- **Soft Skills:** Critical/analytical thinking, problem-solving, written/verbal communication, attention to detail, fast learner, self-motivated.
+  * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Customer Segmentation, RFM Analysis, Machine Learning, Artificial Intelligence, Data Architecture, Database Design and Normalization, Time Series Analysis.
 
----
+  * **Technical Skills**: Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau, Datawrapper, Alteryx.
+
+  * **Soft Skills**: Critical and Analytical Thinking skills, Problem Solving skills, Verbal and Written Communication, Attention to Detail, Fast Learner, Independent and Self Motivated. 
+</p>
+<br><br>
 
 ## Projects
 
-<table>
-  <tr>
-    <td width="33%">
-      <img src="assets/proj1.jpg" alt="Manufacturing Downtime" width="100%">
-    </td>
-    <td>
-      <a href="https://github.com/YOUR_USER/PROJECT_1"><b>Production Line Downtime Analysis</b></a><br/>
-      Analyzed soda plant downtime in Excel; identified root causes and delivered actionable recommendations using tables, charts, and a concise report.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/proj2.jpg" alt="Event DB" width="100%">
-    </td>
-    <td>
-      <a href="https://github.com/YOUR_USER/PROJECT_2"><b>EventSphere: Event Management Database (SQL Server)</b></a><br/>
-      Designed and implemented a normalized relational database for a mid-sized event firm; ERD, schema, sample queries, and stored procedures included.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/proj3.jpg" alt="LinkedIn Analytics" width="100%">
-    </td>
-    <td>
-      <a href="https://github.com/YOUR_USER/PROJECT_3"><b>LinkedIn Analytics: Telling My Story with Power BI</b></a><br/>
-      Cleaned and modeled LinkedIn activity; built DAX measures and visuals to surface engagement trends and content themes.
-    </td>
-  </tr>
-</table>
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/b84f2dfb-6305-45ab-8b0e-904243402d29"> **[Production Line Downtime Analysis](https://github.com/Arpita-deb/Manufacturing-Downtime-Data-Analysis.git)**
+</p> In this Maven Analytics data challenge, I analyzed the manufacturing downtime of a soda production company using Excel. I explored the key production issues and identified the root cause of production delays. Finally I shared the insights through tables, charts and graphs and provided actionable recommendations with a detailed report.
+</p>
+<br><br><br>
 
-<!-- Optional: footer note -->
-<p align="right"><i>Thanks for visiting!</i></p>
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/480247a6-a36e-487e-b247-b71fefd73e39"> **[EventSphere Solutions: Event 
+Management Database Design and Implementation](https://github.com/Arpita-deb/Event-Database-Management.git)**
+</p> In this project, I designed and implemented an event management database in Microsoft Server for a fictional mid-sized event management company.
+</p>
+<br><br><br>
+
+
+
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita-deb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="arpita-deb" width="410" height="200" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arpita-deb&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" width="410" height="200"</b></i></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita-deb&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" /></p>
