@@ -77,11 +77,3 @@ Management Database Design and Implementation](https://github.com/Arpita-deb/Eve
 <br><br><br>
 
 
-
-<hr>
-<p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita-deb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="arpita-deb" width="410" height="200" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arpita-deb&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" width="410" height="200"</b></i></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita-deb&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" /></p>
