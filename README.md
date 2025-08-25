@@ -65,15 +65,11 @@
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/b84f2dfb-6305-45ab-8b0e-904243402d29"> **[Production Line Downtime Analysis](https://github.com/Arpita-deb/Manufacturing-Downtime-Data-Analysis.git)**
-</p> In this Maven Analytics data challenge, I analyzed the manufacturing downtime of a soda production company using Excel. I explored the key production issues and identified the root cause of production delays. Finally I shared the insights through tables, charts and graphs and provided actionable recommendations with a detailed report.
+<img align="left" width="250" height="150" src="https://github.com/mohammedlhalliru/mohammedlabaranhalliru-mohammedlabaranhalliru/blob/main/assets/IBM%20Logo.jpg"> **[IBM-Data-Analyst-Capstone-Project-
+](https://github.com/mohammedlhalliru/IBM-Data-Analyst-Capstone-Project-)**
+</p> Final project for the IBM Data Analyst Professional Certificate. Covers data collection, wrangling, exploratory analysis, visualization, and dashboarding. Tools used: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Cognos Analytics. Demonstrates end-to-end data analysis workflow with real-world datasets.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/480247a6-a36e-487e-b247-b71fefd73e39"> **[EventSphere Solutions: Event 
-Management Database Design and Implementation](https://github.com/Arpita-deb/Event-Database-Management.git)**
-</p> In this project, I designed and implemented an event management database in Microsoft Server for a fictional mid-sized event management company.
-</p>
-<br><br><br>
 
 
